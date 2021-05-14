@@ -462,7 +462,6 @@ C:\testejogo\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\
 C:\testejogo\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\testejogo\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\testejogo\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\testejogo\Backend\SensorReadDataApi\obj\Debug\netcoreapp3.1\SensorReadDataApi.csprojAssemblyReference.cache
 C:\testejogo\Backend\SensorReadDataApi\obj\Debug\netcoreapp3.1\SensorReadDataApi.AssemblyInfoInputs.cache
 C:\testejogo\Backend\SensorReadDataApi\obj\Debug\netcoreapp3.1\SensorReadDataApi.AssemblyInfo.cs
 C:\testejogo\Backend\SensorReadDataApi\obj\Debug\netcoreapp3.1\SensorReadDataApi.csproj.CoreCompileInputs.cache

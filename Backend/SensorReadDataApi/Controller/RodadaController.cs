@@ -78,7 +78,7 @@ namespace RodadaReadDataApi.Controller
                     pontos = 20;
 
                     mensagem = mensagem
-                                    + "* Prêmio " + premio
+                                    + "<p/> Prêmio " + premio
                                     + " o valor " + pontos
                                     + " ocorreu 1 vez."
                                     + " - (" + pontos + " pontos).";
@@ -88,7 +88,7 @@ namespace RodadaReadDataApi.Controller
                 {
                     premio = "Sequencia Menor";
                     pontos = 15;
-                    mensagem = mensagem + "* Prêmio " + premio + " - (" + pontos + " pontos).";
+                    mensagem = mensagem + "<p/> Prêmio " + premio + " - (" + pontos + " pontos).";
                 }
 
                 else
@@ -159,14 +159,14 @@ namespace RodadaReadDataApi.Controller
                         }
 
                         mensagem = mensagem
-                                        + "* Prêmio " + premio
+                                        + "<p/> Prêmio " + premio
                                         + " o valor " + a.Item
                                         + " ocorreu " + a.Quant.ToString() + " vezes."
                                         + " - (" + pontos + " pontos).";
                     }
                 }
 
-                mensagem = mensagem + " * Nº SORTEADO " + dado.ToString();
+                mensagem = mensagem + " <p/> Nº SORTEADO " + dado.ToString();
                 mensagem = mensagem + " COM TOTAL DE " + pontos + " PONTOS.";
 
                 var result = _rodadaRepository.Insert(dado, mensagem);

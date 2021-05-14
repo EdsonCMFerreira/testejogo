@@ -95,3 +95,8 @@ npm run start
 
 Optei por aprensentar em Next.Js React pois o front já fiz em .NET C#, mas podria também apresentar seus dados consumindo a API com seus EndPoint's.
 
+
+-------------------------------
+5- A pasta Evidencias contêm um arquivo Evidências.docx onde guardei algumas evidencias de funcionamento da API e do front.
+
+
