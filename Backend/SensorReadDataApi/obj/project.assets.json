@@ -7978,11 +7978,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\testejogo\\SensorReadDataApi\\SensorReadDataApi.csproj",
+      "projectUniqueName": "C:\\testejogo\\Backend\\SensorReadDataApi\\SensorReadDataApi.csproj",
       "projectName": "SensorReadDataApi",
-      "projectPath": "C:\\testejogo\\SensorReadDataApi\\SensorReadDataApi.csproj",
+      "projectPath": "C:\\testejogo\\Backend\\SensorReadDataApi\\SensorReadDataApi.csproj",
       "packagesPath": "C:\\Users\\Ariel\\.nuget\\packages\\",
-      "outputPath": "C:\\testejogo\\SensorReadDataApi\\obj\\",
+      "outputPath": "C:\\testejogo\\Backend\\SensorReadDataApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

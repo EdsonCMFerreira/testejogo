@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TwMLtMNzMIQ54QjKfLCVzKr/yPxNALjQ+Z6vpS+MwUFZG2UajvRZdCHI8nGovNz1Wlxz02ij1AtUd3AG9tZuhA==",
+  "dgSpecHash": "VdJotYQPi6mM/TdoCXcGEyVtfIW+HjOYFwMvZydxsgE4kQoAnkjfBG/FwGV14HtEPUMv+V39SKVfNJHxO4pNVA==",
   "success": true,
-  "projectFilePath": "C:\\testejogo\\SensorReadDataApi\\SensorReadDataApi.csproj",
+  "projectFilePath": "C:\\testejogo\\Backend\\SensorReadDataApi\\SensorReadDataApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ariel\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\Ariel\\.nuget\\packages\\documentformat.openxml\\2.13.0\\documentformat.openxml.2.13.0.nupkg.sha512",
