@@ -28,10 +28,11 @@ namespace RestApiModeloDDD.API.Controllers
        
         // POST api/values
         [HttpPost]
-        public ActionResult Post(RodadaDto rodadaDTO)
+        public ActionResult Post()
         {
             try
             {
+                RodadaDto rodadaDTO = new RodadaDto();
                 if (rodadaDTO == null)
                     return NotFound();
 
