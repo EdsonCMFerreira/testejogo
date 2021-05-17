@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "df5b70c3-f983-4a03-bccf-127168e47bb1",
+		"_postman_id": "44c53c8f-df92-4052-b8b2-dbbb42b0ca32",
 		"name": "Jogo",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -18,15 +18,14 @@
 					"raw": ""
 				},
 				"url": {
-					"raw": "http://localhost:61190/api/rodada",
-					"protocol": "http",
+					"raw": "https://localhost:44387/rodadas",
+					"protocol": "https",
 					"host": [
 						"localhost"
 					],
-					"port": "61190",
+					"port": "44387",
 					"path": [
-						"api",
-						"rodada"
+						"rodadas"
 					]
 				},
 				"description": "teste"
@@ -40,7 +39,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "12345",
+					"raw": "{\r\n  \r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -48,25 +47,29 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:61190/api/rodada",
-					"protocol": "http",
+					"raw": "https://localhost:44387/rodadas",
+					"protocol": "https",
 					"host": [
 						"localhost"
 					],
-					"port": "61190",
+					"port": "44387",
 					"path": [
-						"api",
-						"rodada"
+						"rodadas"
 					],
 					"query": [
 						{
-							"key": "dado",
-							"value": "54321",
+							"key": "id",
+							"value": "0",
 							"disabled": true
 						},
 						{
-							"key": "mensagem",
-							"value": "teste",
+							"key": "dado",
+							"value": "0",
+							"disabled": true
+						},
+						{
+							"key": "",
+							"value": "\"teste\"",
 							"disabled": true
 						}
 					]
